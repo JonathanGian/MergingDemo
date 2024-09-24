@@ -1,0 +1,7 @@
+- Goto GitHub and create a dipository
+- Goto the folder where you want to set up GitHub and use “git init -b main”
+- in terminal "git remote add orgin (repository-URL)
+- Create a README.MD file in repository on machine
+- in terminal: git add .
+- In terminal: git commit -m "First commit"
+-
