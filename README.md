@@ -4,4 +4,6 @@
 - Create a README.MD file in repository on machine
 - in terminal: git add .
 - In terminal: git commit -m "First commit"
--
+- merge the branches with git rebase 
+- approve of the right version of code
+-in terminal git push orgin main (Because i accidently named the branch orgin)
