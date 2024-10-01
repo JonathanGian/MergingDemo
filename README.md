@@ -7,3 +7,4 @@
 - merge the branches with git rebase 
 - approve of the right version of code
 -in terminal git push orgin main (Because i accidently named the branch orgin)
+- Make a new branch called new_branch (git checkout -b new_branch)
